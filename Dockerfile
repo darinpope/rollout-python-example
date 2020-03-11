@@ -1,2 +1,2 @@
-FROM python:3.8.2-buster
+FROM python:3.8.2-slim-buster
 RUN pip install rox
